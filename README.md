@@ -12,5 +12,6 @@ The cheapest logging server with client for HiLoad. This project aims to create 
 * Log search with fast grep
 * Result aggregation using pipes pattern
 * Vector Clock with broadcast for correct log ordering
+* Make it faster and cheaper than Grafana Loki
 
 # The more likes this repo will get the sooner i will start the project.
